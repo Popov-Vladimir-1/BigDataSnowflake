@@ -14,11 +14,11 @@
 docker-compose up -d
 ```
 
-###2. Установка зависимостей
+### 2. Установка зависимостей
 ```bash
 pip install psycopg2-binary
 ```
-###3. Запуск ETL скрипта
+### 3. Запуск ETL скрипта
 ```bash
 python main.py
 ```
